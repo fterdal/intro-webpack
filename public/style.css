@@ -9,3 +9,16 @@ body {
 h1 {
   text-align: center;
 }
+
+#monster-container {
+  border: 1px solid black;
+  background-color: bisque;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.monster-box {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+}
