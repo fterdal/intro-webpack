@@ -4,3 +4,7 @@ const formatDollars = cents => {
     currency: "USD"
   });
 };
+
+module.exports = {
+  formatDollars
+}

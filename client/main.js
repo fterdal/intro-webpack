@@ -1,3 +1,8 @@
+const React = require("react")
+
+const initialMonsters = require("./monsterData");
+const { formatDollars } = require("./utils");
+
 const monsterContainer = document.getElementById("monster-container");
 
 initialMonsters.forEach(monster => {

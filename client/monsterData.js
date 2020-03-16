@@ -4,3 +4,5 @@ const initialMonsters = [
   { id: 3, name: "Frankie", priceInCents: 10890, age: 171, inCart: false },
   { id: 4, name: "Kristy", priceInCents: 8799, age: 142, inCart: false }
 ];
+
+module.exports = initialMonsters;
